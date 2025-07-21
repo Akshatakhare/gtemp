@@ -1,2 +1,4 @@
 file6 line1
 common line in main branch
+common line of code
+
